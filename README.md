@@ -1,21 +1,21 @@
-## Interface Básica do instagram
+# Interface Básica do instagram
 
 ## Projeto desenvolvido no framework Next.js
 
-# - Foi desenvolvido utilizando o Tailwind, geração condicional de elementos na pagina, useState e a biblioteca react-icons
+#### - Foi desenvolvido utilizando o Tailwind, geração condicional de elementos na pagina, useState e a biblioteca react-icons
 
 ## Para executar
 
-# - instale o node.js mais atualizado
+#### - instale o node.js mais atualizado
 
-# - instale e inicialize o Visual Studio Code
+#### - instale e inicialize o Visual Studio Code
 
-# - digite ctrl+shift+' para abrir um terminal
+#### - digite ctrl+shift+' para abrir um terminal
 
-# - digite git clone
+#### - digite git clone main https://github.com/GeorgeVieiraNRB/insta-layout.git
 
-# - digite cd insta-layout
+#### - digite cd insta-layout
 
-# - digite npm run dev
+#### - digite npm run dev
 
-# - clique no link exibido no terminal
+#### - clique no link exibido no terminal
