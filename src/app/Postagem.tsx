@@ -67,8 +67,9 @@ export default function Postagem({
         <FaBookmark
           size={30}
           color={bookmarkColor}
-          onMouseOver={() => setBookmarkColor("black")}
-          onMouseOut={() => setBookmarkColor("gray")}
+          onClick={() => {
+            setBookmarkColor(bookmarkColor == "black" ? "gray" : "black");
+          }}
         />
       </div>
       <div className="flex flex-row items-center justify-start ml-2">
